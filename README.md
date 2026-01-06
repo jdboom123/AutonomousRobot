@@ -8,4 +8,4 @@ Currently building the robot. Some ideas for what to do with it:
 Main idea of the robot is to integrate the relationship between software/hardware, while adding some unique features to the robot
 
 Progress on Robot:
-![Robot Assembly Day 1](Images/IMG_8191.JPG)
+![Robot Assembly Day 1](Images/IMG_8192.JPG)
