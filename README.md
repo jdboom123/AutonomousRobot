@@ -20,3 +20,8 @@ Was able to connect via SSH. Able to set up VNC Viewer to get a graphical interf
 
 Progress on Robot:
 ![Robot Assembly Day 2: Finished Product](Images/IMG_8193.JPG)
+
+## 1-7-26: Software Setup
+- Connected the robot directly to my router for a better connection. Will try and set up the internet on the Raspberry Pi so that I don't need the ethernet cable.
+- Done setting up necessary software and connected Raspberry Pi to Internet
+- Camera is not working for the robot, need to debug it
