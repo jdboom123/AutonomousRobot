@@ -16,6 +16,7 @@ Adding Raspberry OS to Raspberry Pi
 Trying to connect to Raspberry Pi through SSH -> not working
 I suspect it may be something with the internet on the Raspberry Pi
 - I am stupid -> was using the wrong username
+
 Was able to connect via SSH
 Able to set up VNC Viewer to get a graphical interface
 
