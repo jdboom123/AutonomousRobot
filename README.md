@@ -25,3 +25,23 @@ Progress on Robot:
 - Connected the robot directly to my router for a better connection. Will try and set up the internet on the Raspberry Pi so that I don't need the ethernet cable.
 - Done setting up necessary software and connected Raspberry Pi to Internet
 - Camera is not working for the robot, need to debug it
+
+## 1-8-26: Camera Debugging
+- The camera is not working as intended. 
+- Ensured that all connections with FFC cable are properly set up.
+- Ran rpicam-hello, the camera did not work and I got this error:
+![Error Message after running rpicam-hello](Images/rpicam-hello-error.png)
+
+- Sent an email to SunFounder, waiting for response
+- For now, brainstorming ideas for the robot, will only stick to one for the month of Jan/Feb
+
+### Issues that I want to solve
+- Don't have someone recording me, don't want to bother anyone. Can have the robot follow me around recording me
+- Losing items, can have the robot track down a missing item underneath the bed, play a sound if it finds it
+- Once I get the camera working, can have something to do with facial recognition
+
+- Have the robot follow me around, avoid obstacles, make sure it doesn't bump into anything
+
+How to get the robot to follow you around:
+- Maybe wearing something that indicates that you need to follow it around
+- Facial recognition, having it follow you around
