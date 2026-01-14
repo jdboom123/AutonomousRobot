@@ -83,3 +83,15 @@ Want to do a robot dog that follows commands.
 - Returned Raspberry Pi OS to Trixie 64 bit. 
 - Cloned this repo into the Raspberry Pi
 - Will now start working on voice commands
+
+## 1-14-26: Git and More Commands
+- Set up Git on Raspberry Pi, so I can now edit directly on Raspberry Pi and push to Github on Raspberry Pi
+- Setting up a command for 'good boy', should move its head up and down
+
+- Few glitches:
+- After saying good for a few times, the robot stops shaking its head
+- The robot can process good, but not 'good boy'
+- text is a string, but will split text by space and put them into a list called words
+- 'Good boy' command is now working as intended
+
+- Want to set up interrupts for the voice commands or for the keyboard
