@@ -71,3 +71,9 @@ Want to do a robot dog that follows commands.
 <video width="320" height="240" controls>
   <source src="IMG_8244.mov" type="video/mov">
 </video>
+
+## 1-12-26: More Debugging on Camera
+- Received message from Sunfounder team to switch OS
+- Switched from Trixie to Bookworm, camera did not work still
+- Will now ask Sunfounder for a new camera module
+![Error Message after running rpicam-hello on new OS](Images/IMG_8247.JPG)
