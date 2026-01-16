@@ -77,3 +77,4 @@ Want to do a robot dog that follows commands.
 - Switched from Trixie to Bookworm, camera did not work still
 - Will now ask Sunfounder for a new camera module
 ![Error Message after running rpicam-hello on new OS](Images/IMG_8247.JPG)
+
