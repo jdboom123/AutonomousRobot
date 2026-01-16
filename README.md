@@ -78,3 +78,20 @@ Want to do a robot dog that follows commands.
 - Will now ask Sunfounder for a new camera module
 ![Error Message after running rpicam-hello on new OS](Images/IMG_8247.JPG)
 
+## 1-13-26: Setting up Environment
+- Will work on receiving the new camera
+- Returned Raspberry Pi OS to Trixie 64 bit. 
+- Cloned this repo into the Raspberry Pi
+- Will now start working on voice commands
+
+## 1-14-26: Git and More Commands
+- Set up Git on Raspberry Pi, so I can now edit directly on Raspberry Pi and push to Github on Raspberry Pi
+- Setting up a command for 'good boy', should move its head up and down
+
+- Few glitches:
+- After saying good for a few times, the robot stops shaking its head
+- The robot can process good, but not 'good boy'
+- text is a string, but will split text by space and put them into a list called words
+- 'Good boy' command is now working as intended
+
+- Want to set up interrupts for the voice commands or for the keyboard
